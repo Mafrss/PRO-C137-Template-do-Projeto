@@ -155,7 +155,7 @@ def preprocess_train_data():
 bow_data  , label_data = preprocess_train_data()
 
 # depois de completar o código, remova o comentário das instruções de impressão
-print("primeira codificação BOW: " , bow_data[0])
-print("primeira codificação Label: " , label_data[0])
+#print("primeira codificação BOW: " , bow_data[0])
+#print("primeira codificação Label: " , label_data[0])
 
 
